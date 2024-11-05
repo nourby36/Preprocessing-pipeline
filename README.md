@@ -67,5 +67,5 @@ The final output is a list of dictionaries representing products, each containin
    ```bash
    pip install spacy transformers pycountry tldextract python-whois ipinfo requests matplotlib seaborn numpy pandas nltk pytz dateparser langdetect lingua-language-detector
     ```
-   The provided data is part of the complete data , change the path accordingly
+   The provided data folder represents just a part of the whole data, change the path accordingly
    
